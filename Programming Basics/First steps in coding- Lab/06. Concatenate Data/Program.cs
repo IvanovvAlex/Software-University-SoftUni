@@ -1,0 +1,18 @@
+﻿using System;
+using System.Xml.Schema;
+
+namespace Concatenate_Data
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string firstName = Console.ReadLine();
+            string lastName = Console.ReadLine();
+            double age = double.Parse(Console.ReadLine());
+            string town = Console.ReadLine();
+
+            Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
+        }
+    }
+}
