@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.1\9. Chars to String.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.1\9. Chars to String.genruntimeconfig.cache

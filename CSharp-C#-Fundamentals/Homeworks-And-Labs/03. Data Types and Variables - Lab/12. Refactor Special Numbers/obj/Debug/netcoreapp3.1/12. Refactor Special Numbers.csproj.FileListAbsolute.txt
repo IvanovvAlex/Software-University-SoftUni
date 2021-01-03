@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\netcoreapp3.1\4. Centuries to Minutes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\netcoreapp3.1\4. Centuries to Minutes.genruntimeconfig.cache

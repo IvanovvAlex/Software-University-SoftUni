@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.genruntimeconfig.cache

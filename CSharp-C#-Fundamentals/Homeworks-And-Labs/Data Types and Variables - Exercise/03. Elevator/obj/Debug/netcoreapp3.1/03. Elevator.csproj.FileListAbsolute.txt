@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.genruntimeconfig.cache

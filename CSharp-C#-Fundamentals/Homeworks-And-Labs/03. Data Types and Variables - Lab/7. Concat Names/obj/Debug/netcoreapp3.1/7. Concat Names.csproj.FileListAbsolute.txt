@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.exe
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.1\7. Concat Names.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.dll
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.1\7. Concat Names.genruntimeconfig.cache
