@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.exe
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\bin\Debug\netcoreapp3.1\4. Print and sum.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and sum\obj\Debug\netcoreapp3.1\4. Print and sum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.exe
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\bin\Debug\netcoreapp3.1\6. Strong number.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong number\obj\Debug\netcoreapp3.1\6. Strong number.genruntimeconfig.cache

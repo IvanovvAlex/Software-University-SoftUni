@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.exe
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\bin\Debug\netcoreapp3.1\3. Vacation.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops - Exercise\3. Vacation\obj\Debug\netcoreapp3.1\3. Vacation.genruntimeconfig.cache
