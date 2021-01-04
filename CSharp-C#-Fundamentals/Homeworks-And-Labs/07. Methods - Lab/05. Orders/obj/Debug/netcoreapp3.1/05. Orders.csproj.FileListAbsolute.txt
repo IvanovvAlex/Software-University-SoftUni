@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

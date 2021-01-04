@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.genruntimeconfig.cache
