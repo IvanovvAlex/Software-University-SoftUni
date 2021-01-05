@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.genruntimeconfig.cache

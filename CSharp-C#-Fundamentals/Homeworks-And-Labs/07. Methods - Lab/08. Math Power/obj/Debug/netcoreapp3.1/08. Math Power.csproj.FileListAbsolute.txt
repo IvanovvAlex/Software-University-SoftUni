@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.genruntimeconfig.cache

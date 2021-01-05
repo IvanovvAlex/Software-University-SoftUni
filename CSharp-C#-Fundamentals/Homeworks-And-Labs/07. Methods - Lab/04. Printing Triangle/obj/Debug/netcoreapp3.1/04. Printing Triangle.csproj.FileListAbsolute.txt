@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.genruntimeconfig.cache
