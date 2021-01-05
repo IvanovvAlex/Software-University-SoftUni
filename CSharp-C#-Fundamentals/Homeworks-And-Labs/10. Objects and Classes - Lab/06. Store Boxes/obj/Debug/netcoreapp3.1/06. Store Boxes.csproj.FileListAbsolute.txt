@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.exe
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.genruntimeconfig.cache

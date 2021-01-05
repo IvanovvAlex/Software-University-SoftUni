@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache
