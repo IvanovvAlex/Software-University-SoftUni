@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.genruntimeconfig.cache

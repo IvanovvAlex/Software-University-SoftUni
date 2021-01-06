@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.exe
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.dll
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.genruntimeconfig.cache
