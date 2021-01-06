@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.genruntimeconfig.cache

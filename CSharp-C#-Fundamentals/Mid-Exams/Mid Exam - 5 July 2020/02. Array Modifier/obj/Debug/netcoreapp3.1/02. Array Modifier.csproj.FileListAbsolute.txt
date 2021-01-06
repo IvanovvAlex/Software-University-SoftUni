@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache
