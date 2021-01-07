@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.genruntimeconfig.cache

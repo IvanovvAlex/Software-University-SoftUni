@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache

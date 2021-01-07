@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 2\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.genruntimeconfig.cache
