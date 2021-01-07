@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.genruntimeconfig.cache

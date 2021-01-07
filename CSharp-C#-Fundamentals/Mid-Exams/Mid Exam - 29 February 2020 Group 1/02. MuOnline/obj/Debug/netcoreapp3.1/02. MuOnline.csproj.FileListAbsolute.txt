@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.genruntimeconfig.cache
