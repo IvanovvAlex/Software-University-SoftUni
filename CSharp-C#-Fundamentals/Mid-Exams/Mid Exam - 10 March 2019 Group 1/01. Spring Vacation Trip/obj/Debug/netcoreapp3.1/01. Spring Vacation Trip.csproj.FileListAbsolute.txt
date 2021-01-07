@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp3.1\01. Spring Vacation Trip.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp3.1\01. Spring Vacation Trip.genruntimeconfig.cache
