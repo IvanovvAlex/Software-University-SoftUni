@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.exe
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\bin\Debug\netcoreapp3.1\03. Angry Pet.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\03. Angry Pet\obj\Debug\netcoreapp3.1\03. Angry Pet.genruntimeconfig.cache

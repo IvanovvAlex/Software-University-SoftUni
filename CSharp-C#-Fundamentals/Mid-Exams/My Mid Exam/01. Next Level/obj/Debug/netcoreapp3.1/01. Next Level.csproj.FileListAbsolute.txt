@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.exe
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\bin\Debug\netcoreapp3.1\01. Next Level.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\01. Next Level\obj\Debug\netcoreapp3.1\01. Next Level.genruntimeconfig.cache

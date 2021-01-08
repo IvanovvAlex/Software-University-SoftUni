@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.exe
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\bin\Debug\netcoreapp3.1\02. Crafting.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Mid Exam\02. Crafting\obj\Debug\netcoreapp3.1\02. Crafting.genruntimeconfig.cache
