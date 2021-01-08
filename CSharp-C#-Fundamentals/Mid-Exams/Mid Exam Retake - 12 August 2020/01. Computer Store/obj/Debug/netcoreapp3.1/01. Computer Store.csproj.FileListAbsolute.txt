@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.genruntimeconfig.cache

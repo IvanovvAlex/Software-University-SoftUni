@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache
