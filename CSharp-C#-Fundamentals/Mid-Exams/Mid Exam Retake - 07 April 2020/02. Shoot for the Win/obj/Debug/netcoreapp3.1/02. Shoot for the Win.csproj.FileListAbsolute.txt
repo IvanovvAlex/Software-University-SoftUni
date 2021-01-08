@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.genruntimeconfig.cache

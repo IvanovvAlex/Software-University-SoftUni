@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.genruntimeconfig.cache

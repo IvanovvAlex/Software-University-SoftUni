@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.exe
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.dll
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.genruntimeconfig.cache
