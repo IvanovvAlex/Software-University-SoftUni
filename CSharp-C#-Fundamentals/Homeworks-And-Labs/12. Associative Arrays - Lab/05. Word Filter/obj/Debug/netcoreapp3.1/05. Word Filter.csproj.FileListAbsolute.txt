@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.exe
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.dll
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.dll
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.genruntimeconfig.cache
