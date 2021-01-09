@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache
