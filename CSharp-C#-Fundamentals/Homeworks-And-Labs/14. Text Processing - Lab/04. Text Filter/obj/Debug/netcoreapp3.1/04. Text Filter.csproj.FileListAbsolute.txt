@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache
