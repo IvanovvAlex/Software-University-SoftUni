@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.exe
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.genruntimeconfig.cache

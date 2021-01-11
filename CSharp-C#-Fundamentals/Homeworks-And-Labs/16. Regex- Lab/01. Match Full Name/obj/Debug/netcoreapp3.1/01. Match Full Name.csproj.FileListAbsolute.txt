@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.exe
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.genruntimeconfig.cache

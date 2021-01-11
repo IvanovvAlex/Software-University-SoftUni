@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Regex- Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.genruntimeconfig.cache
