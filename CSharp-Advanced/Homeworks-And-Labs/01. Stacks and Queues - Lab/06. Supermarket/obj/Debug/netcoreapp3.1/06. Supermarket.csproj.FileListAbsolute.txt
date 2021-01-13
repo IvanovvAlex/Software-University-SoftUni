@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.genruntimeconfig.cache

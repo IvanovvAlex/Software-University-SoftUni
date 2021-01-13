@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.genruntimeconfig.cache
