@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.genruntimeconfig.cache
