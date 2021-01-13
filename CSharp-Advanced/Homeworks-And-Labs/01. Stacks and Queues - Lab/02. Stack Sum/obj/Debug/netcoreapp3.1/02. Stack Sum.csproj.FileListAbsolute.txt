@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.genruntimeconfig.cache

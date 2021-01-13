@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache
