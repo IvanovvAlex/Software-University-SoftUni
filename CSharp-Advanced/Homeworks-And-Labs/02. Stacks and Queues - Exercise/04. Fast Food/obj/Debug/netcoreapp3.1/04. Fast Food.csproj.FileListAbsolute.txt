@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache
