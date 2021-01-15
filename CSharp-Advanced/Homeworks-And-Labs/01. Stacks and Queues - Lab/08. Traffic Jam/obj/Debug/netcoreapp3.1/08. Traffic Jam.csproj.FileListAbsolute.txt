@@ -10,3 +10,4 @@ D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. St
 D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.dll
 D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.pdb
 D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.genruntimeconfig.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\01. Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csprojAssemblyReference.cache

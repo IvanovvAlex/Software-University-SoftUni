@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\02. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.genruntimeconfig.cache

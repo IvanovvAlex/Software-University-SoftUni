@@ -15,10 +15,15 @@ namespace _08._Traffic_Jam
             {
                 if (command == "green")
                 {
-                    passedCars += greenPass;
+
+
                     for (int i = 0; i < greenPass; i++)
                     {
-                        Console.WriteLine($"{cars.Dequeue()} passed!"); 
+                        if (cars.Count > 0)
+                        {
+                            Console.WriteLine($"{cars.Dequeue()} passed!");
+                            passedCars++;
+                        }
                     }
                 }
                 else
