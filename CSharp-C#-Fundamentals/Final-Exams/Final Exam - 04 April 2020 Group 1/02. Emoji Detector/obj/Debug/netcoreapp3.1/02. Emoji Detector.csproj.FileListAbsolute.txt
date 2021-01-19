@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.genruntimeconfig.cache

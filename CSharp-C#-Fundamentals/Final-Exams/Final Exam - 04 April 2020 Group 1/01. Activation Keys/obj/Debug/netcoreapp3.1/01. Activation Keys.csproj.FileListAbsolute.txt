@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

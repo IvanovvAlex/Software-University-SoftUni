@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache
