@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache
