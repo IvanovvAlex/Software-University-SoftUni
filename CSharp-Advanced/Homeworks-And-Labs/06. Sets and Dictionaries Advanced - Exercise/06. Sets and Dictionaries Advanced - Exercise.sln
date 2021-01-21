@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Periodic Table", "03. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Even Times", "04. Even Times\04. Even Times.csproj", "{5A732996-C1AB-4A39-A8B8-5362D0F64626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Symbols", "05. Count Symbols\05. Count Symbols.csproj", "{9C5DFB7E-041D-438E-A551-5E10760AD24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Wardrobe", "06. Wardrobe\06. Wardrobe.csproj", "{89DA722F-C4D6-45AE-8482-DA4AF479F611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{5A732996-C1AB-4A39-A8B8-5362D0F64626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A732996-C1AB-4A39-A8B8-5362D0F64626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A732996-C1AB-4A39-A8B8-5362D0F64626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5DFB7E-041D-438E-A551-5E10760AD24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5DFB7E-041D-438E-A551-5E10760AD24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5DFB7E-041D-438E-A551-5E10760AD24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5DFB7E-041D-438E-A551-5E10760AD24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DA722F-C4D6-45AE-8482-DA4AF479F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DA722F-C4D6-45AE-8482-DA4AF479F611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DA722F-C4D6-45AE-8482-DA4AF479F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DA722F-C4D6-45AE-8482-DA4AF479F611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
