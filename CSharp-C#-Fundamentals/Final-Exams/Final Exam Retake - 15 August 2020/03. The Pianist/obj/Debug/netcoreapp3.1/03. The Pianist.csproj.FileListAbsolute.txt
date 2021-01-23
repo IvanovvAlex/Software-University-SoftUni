@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam Retake - 15 August 2020\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache
