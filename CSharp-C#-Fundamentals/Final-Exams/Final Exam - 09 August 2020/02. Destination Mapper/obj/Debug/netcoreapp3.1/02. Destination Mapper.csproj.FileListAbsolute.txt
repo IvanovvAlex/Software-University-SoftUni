@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

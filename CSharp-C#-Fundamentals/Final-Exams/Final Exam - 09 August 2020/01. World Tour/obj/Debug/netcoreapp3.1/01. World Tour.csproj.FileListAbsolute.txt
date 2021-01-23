@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache
