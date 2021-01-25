@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.exe
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.dll
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.pdb
+D:\SoftUni\Fundamentals Module\Задачи\My Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.genruntimeconfig.cache
