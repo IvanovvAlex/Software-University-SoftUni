@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache
