@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.genruntimeconfig.cache
