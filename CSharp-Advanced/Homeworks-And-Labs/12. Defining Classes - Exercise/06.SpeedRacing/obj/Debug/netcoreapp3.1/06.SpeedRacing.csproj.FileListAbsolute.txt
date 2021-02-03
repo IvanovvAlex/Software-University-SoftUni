@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.genruntimeconfig.cache

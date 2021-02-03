@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache
