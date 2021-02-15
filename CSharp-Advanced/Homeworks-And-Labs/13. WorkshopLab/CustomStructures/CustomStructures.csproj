@@ -2,8 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_09.PokemonTrainer</RootNamespace>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
 </Project>
