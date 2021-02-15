@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.genruntimeconfig.cache

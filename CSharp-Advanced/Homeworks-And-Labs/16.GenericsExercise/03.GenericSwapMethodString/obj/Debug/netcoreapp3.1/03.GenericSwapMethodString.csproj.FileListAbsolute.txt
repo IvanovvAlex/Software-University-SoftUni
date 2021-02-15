@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.genruntimeconfig.cache

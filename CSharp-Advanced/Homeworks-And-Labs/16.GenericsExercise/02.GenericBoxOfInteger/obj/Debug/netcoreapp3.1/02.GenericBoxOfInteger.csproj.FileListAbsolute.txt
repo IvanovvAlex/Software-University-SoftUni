@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.genruntimeconfig.cache
