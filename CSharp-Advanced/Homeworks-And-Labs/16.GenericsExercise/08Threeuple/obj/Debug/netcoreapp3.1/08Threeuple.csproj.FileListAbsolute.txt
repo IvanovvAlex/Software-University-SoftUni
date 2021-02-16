@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Homeworks-And-Labs\16.GenericsExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.genruntimeconfig.cache
