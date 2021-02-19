@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.genruntimeconfig.cache

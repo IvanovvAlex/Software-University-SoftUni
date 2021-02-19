@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-Advanced\Exams\Exam - 19 August 2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.genruntimeconfig.cache
