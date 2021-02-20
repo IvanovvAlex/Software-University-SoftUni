@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\bin\Debug\netcoreapp3.1\02Warships.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\02Warships\obj\Debug\netcoreapp3.1\02Warships.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-Advanced\Exams\MyExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.genruntimeconfig.cache
