@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\bin\Debug\netcoreapp3.1\04RandomList.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\01.InheritanceLab\04RandomList\obj\Debug\netcoreapp3.1\04RandomList.genruntimeconfig.cache
