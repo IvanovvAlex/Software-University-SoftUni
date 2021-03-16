@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
+    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
+    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
         "projectName": "PlayersAndMonsters",
-        "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\obj\\",
+        "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "packagesPath": "C:\\Users\\alexivanov2003\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\02InheritanceExercise\\PlayersAndMonsters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexivanov2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
