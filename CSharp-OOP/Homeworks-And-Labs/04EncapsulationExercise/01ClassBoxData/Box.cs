@@ -14,11 +14,11 @@ namespace _01ClassBoxData
         {
             Length = length;
             Width = width;
-            Length = length;
+            Height = height;
         }               
         public double Length
-        {            
-            
+        {
+            get { return length; }
             private set 
             {
                 if (value > 0)
@@ -27,14 +27,14 @@ namespace _01ClassBoxData
                 }
                 else
                 {
-                    Console.WriteLine("Length cannot be zero or negative.");
-                    return;
+                    throw new ArgumentException("Length cannot be zero or negative.");
                 }
             }
         }
         public double Width
         {
-            set
+            get { return width; }
+            private set
             {
                 if (value > 0)
                 {
@@ -42,14 +42,14 @@ namespace _01ClassBoxData
                 }
                 else
                 {
-                    Console.WriteLine("Width cannot be zero or negative.");
-                    return;
+                    throw new ArgumentException("Width cannot be zero or negative.");
                 }
             }
         }
         public double Height
         {
-            set
+            get { return height; }
+            private set
             {
                 if (value > 0)
                 {
@@ -57,22 +57,24 @@ namespace _01ClassBoxData
                 }
                 else
                 {
-                    Console.WriteLine("Height cannot be zero or negative.");
-                    return;
+                    throw new ArgumentException("Height cannot be zero or negative.");
                 }
             }
         }
         public void SurfaceArea()
         {
-            Console.WriteLine($"Surface Area - {((2*length*width)+(2*length*height)+(2*width*height)):f2}");
+            double result = (2d * Length * Width)+(2d * Length * Height)+(2d * Width * Height);
+            Console.WriteLine($"Surface Area - {result:f2}");
         }
         public void LateralSurfaceArea()
         {
-            Console.WriteLine($"Lateral Surface Area - {((2*length*height)+(2*width*height)):f2}");
+            double result = (2 * length * height) + (2 * width * height);
+            Console.WriteLine($"Lateral Surface Area - {result:f2}");
         }
         public void Volume()
         {
-            Console.WriteLine($"Volume - {(length*height*width):f2}");
+            double result = length * height * width;
+            Console.WriteLine($"Volume - {result:f2}");
         }
     }
 }
