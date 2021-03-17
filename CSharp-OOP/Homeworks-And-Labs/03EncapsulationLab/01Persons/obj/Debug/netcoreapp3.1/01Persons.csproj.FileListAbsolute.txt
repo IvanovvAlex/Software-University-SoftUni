@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\bin\Debug\netcoreapp3.1\01Persons.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\01Persons\obj\Debug\netcoreapp3.1\01Persons.genruntimeconfig.cache
