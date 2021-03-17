@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\bin\Debug\netcoreapp3.1\02Salary.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\03EncapsulationLab\02Salary\obj\Debug\netcoreapp3.1\02Salary.genruntimeconfig.cache
