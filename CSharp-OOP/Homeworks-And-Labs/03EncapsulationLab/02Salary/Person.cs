@@ -22,11 +22,11 @@ namespace PersonsInfo
         {
             if (Age < 30)
             {
-                Salary += (Salary * (percentage/2));
+                Salary += (Salary * ((percentage*0.01m)/2));
             }
             else
             {
-                Salary += (Salary * (percentage));
+                Salary += (Salary * (percentage*0.01m));
             }            
         }
         public override string ToString()
